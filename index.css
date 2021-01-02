@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+#menu{
+    background-color: #161B33;
+    margin-bottom: 3%;
+    color: #F1DAC4;
+}
+.nav-link{
+    color: #F1DAC4;
+}
+#jumbo{
+    background-color: #474973;
+    height: 100%;
+    color: #F1DAC4;
+}
+.Jh1{
+    text-align: center;
+}
+#Card{
+    margin-top: 3%;
+}
+#colorCard{
+    background-color: #A69CAC;
+    
+}
